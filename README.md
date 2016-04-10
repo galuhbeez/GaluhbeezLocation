@@ -12,7 +12,7 @@ The accuracy of the location returned is based on the location
 permissions you've requested and the location sensors that are currently active
 for the device.
 
-To run this sample,location must be enabled.
+To run this sample, ***location must be enabled***.
 
 This sample uses
 [Google Play services (GoogleApiClient)](ihttps://developer.android.com/reference/com/google/android/gms/common/api/GoogleApiClient.html)
